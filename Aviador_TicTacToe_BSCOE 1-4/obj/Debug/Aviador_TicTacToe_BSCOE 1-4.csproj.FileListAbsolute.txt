@@ -1,0 +1,11 @@
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\bin\Debug\Aviador_TicTacToe_BSCOE 1-4.exe.config
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\bin\Debug\Aviador_TicTacToe_BSCOE 1-4.exe
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\bin\Debug\Aviador_TicTacToe_BSCOE 1-4.pdb
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\obj\Debug\Aviador_TicTacToe_BSCOE 1-4.csproj.AssemblyReference.cache
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\obj\Debug\Aviador_TicTacToe_BSCOE 1-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\obj\Debug\Aviador_TicTacToe_BSCOE_1_4.Form1.resources
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\obj\Debug\Aviador_TicTacToe_BSCOE_1_4.Properties.Resources.resources
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\obj\Debug\Aviador_TicTacToe_BSCOE 1-4.csproj.GenerateResource.cache
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\obj\Debug\Aviador_TicTacToe_BSCOE 1-4.csproj.CoreCompileInputs.cache
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\obj\Debug\Aviador_TicTacToe_BSCOE 1-4.exe
+C:\Users\D'Aviador\source\repos\Aviador_TicTacToe_BSCOE 1-4\Aviador_TicTacToe_BSCOE 1-4\obj\Debug\Aviador_TicTacToe_BSCOE 1-4.pdb
